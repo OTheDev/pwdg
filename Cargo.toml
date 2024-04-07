@@ -1,0 +1,16 @@
+[package]
+name = "pwdg"
+version = "0.1.0"
+edition = "2021"
+license = "Apache-2.0"
+authors = ["Owain Davies"]
+description = """A rudimentary command-line tool and Rust library for \
+generating secure, random passwords."""
+repository = "https://github.com/OTheDev/pwdg"
+keywords = ["password", "security", "cli"]
+categories = ["command-line-utilities", "cryptography"]
+readme = "README.md"
+
+[dependencies]
+clap = { version = "4.5", features = ["derive"] }
+rand = "0.8"
