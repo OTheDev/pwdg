@@ -1,3 +1,4 @@
+[<img alt="github" src="https://img.shields.io/badge/github-othedev/pwdg-e0a484?style=for-the-badge&labelColor=3e454e&logo=github" height="20">](https://github.com/OTheDev/pwdg)
 [![](https://github.com/OTheDev/pwdg/actions/workflows/ci.yml/badge.svg)](https://github.com/OTheDev/pwdg/actions/workflows/ci.yml)
 [![](https://github.com/OTheDev/pwdg/actions/workflows/static_analysis.yml/badge.svg)](https://github.com/OTheDev/pwdg/actions/workflows/static_analysis.yml)
 
