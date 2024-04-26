@@ -82,24 +82,3 @@ The set of special characters:
 
 `pwdg` is licensed under the [Apache License, Version 2.0](
     https://github.com/OTheDev/pwdg/blob/main/LICENSE).
-
-# Source
-
-Clone the [repository](https://github.com/OTheDev/pwdg):
-
-```shell
-git clone git@github.com:OTheDev/pwdg.git
-cd pwdg
-```
-
-## Test
-
-```shell
-cargo test  # Optionally, --release
-```
-
-## Install
-
-```shell
-cargo install --path .
-```
